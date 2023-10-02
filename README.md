@@ -1,4 +1,6 @@
 # Global-SuperStore-Dashboard
+![Global SuperStore Dashboard 1](https://github.com/RaviR53/Global-SuperStore-Dashboard/assets/54620891/b73673d3-d716-4988-b60d-9fbffc8156f1)
+
 ![Global SuperStore Dashboard 2](https://github.com/RaviR53/Global-SuperStore-Dashboard/assets/54620891/27060c7f-20f8-43b6-8c27-ef47d4e5684b)
 
 📊 Just wrapped up a fascinating project at a Global Superstore in the USA, analyzing data from 2019 and 2020. The results are in, and they're nothing short of incredible! 🚀
