@@ -1,4 +1,6 @@
 # Global-SuperStore-Dashboard
+![Global SuperStore Dashboard 2](https://github.com/RaviR53/Global-SuperStore-Dashboard/assets/54620891/27060c7f-20f8-43b6-8c27-ef47d4e5684b)
+
 📊 Just wrapped up a fascinating project at a Global Superstore in the USA, analyzing data from 2019 and 2020. The results are in, and they're nothing short of incredible! 🚀
 
 📈 Year-over-year (YOY) sales growth soared by an impressive 75%, all while keeping profits rock-steady at 11%. 📊 This demonstrates not just growth, but sustainable and profitable growth – a testament to effective management and strategy.
